@@ -1,7 +1,7 @@
 title: paul warren dot net
 description: discussions on program and project management, opinions on tech and business leadership
-url: ""
-baseurl: ""
+url: "https://warrewp.github.io"
+baseurl: "/pwdotcom"
 
 permalink: /:title/
 
